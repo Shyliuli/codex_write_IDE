@@ -1,0 +1,34 @@
+# Build outputs
+build/
+cmake-build-*/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+compile_commands.json
+install_manifest.txt
+
+# Qt (autogen, moc/uic/rcc)
+*_autogen/
+.qt/
+moc_*.cpp
+moc_*.h
+ui_*.h
+qrc_*.cpp
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.user
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs / core dumps
+*.log
+core
+core.*
+
