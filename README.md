@@ -94,7 +94,7 @@ cmake --build build -j
 - 默认会选择系统可用 shell：
   - Linux：优先 `$SHELL`，否则 `/bin/zsh`，再否则 `/bin/bash`
   - Windows：`powershell`
-
+当然，目前来安好像有问题捏
 ---
 
 ## 项目结构
@@ -108,5 +108,5 @@ cmake --build build -j
 
 ## License
 
-暂未添加（如需开源协议我可以按你的要求补）。
+你可以拿去随便做任何事情
 
