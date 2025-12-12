@@ -3,6 +3,7 @@
 一个基于 **C++ + Qt** 的轻量 C++ IDE（功能与界面风格对标 Dev‑C++），并为 **`rustic.hpp`**（Rust 风格宏/语法糖头文件库）提供“原生语法适配”的编辑体验。
 
 > 这是一个 **vibe coding** 项目：主要由 **OpenAI Codex + GPT‑5.2** 迭代实现。
+<img width="1920" height="1016" alt="4c34316cd16e2ce65009ffa71ec88977" src="https://github.com/user-attachments/assets/0db88568-a700-4d53-a1c0-52b7d86816f5" />
 
 ---
 
